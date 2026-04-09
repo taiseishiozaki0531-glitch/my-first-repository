@@ -1,2 +1,4 @@
 console.log('Hello Git');
 console.log('Git diff 学習中');
+console.log('メンタリング');
+console.log("プルリクエスト");
